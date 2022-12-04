@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\!iaq\\HLLP\\Lab3\\Lab3\\Lab3.csproj": {}
+    "C:\\!iaq\\hllp\\Lab3\\Lab3\\Lab3.csproj": {}
   },
   "projects": {
-    "C:\\!iaq\\HLLP\\Lab3\\Lab3\\Lab3.csproj": {
+    "C:\\!iaq\\hllp\\Lab3\\Lab3\\Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\!iaq\\HLLP\\Lab3\\Lab3\\Lab3.csproj",
+        "projectUniqueName": "C:\\!iaq\\hllp\\Lab3\\Lab3\\Lab3.csproj",
         "projectName": "Lab3",
-        "projectPath": "C:\\!iaq\\HLLP\\Lab3\\Lab3\\Lab3.csproj",
+        "projectPath": "C:\\!iaq\\hllp\\Lab3\\Lab3\\Lab3.csproj",
         "packagesPath": "C:\\Users\\iaqkr\\.nuget\\packages\\",
-        "outputPath": "C:\\!iaq\\HLLP\\Lab3\\Lab3\\obj\\",
+        "outputPath": "C:\\!iaq\\hllp\\Lab3\\Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iaqkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
