@@ -16,7 +16,7 @@ namespace Lab5 {
 			Random rnd = new Random();
 			textBox1.Text = "";
 			for (int i = 0; i < 15; i++)
-				textBox1.Text += $"{rnd.Next(20)} ";
+				textBox1.Text += $"{rnd.Next(100)} ";
 		}
 
 		private void button2_Click (object sender, EventArgs e) {
